@@ -10,5 +10,10 @@ public class User implements Serializable{
 
     public static void main(String[] args) {
         System.out.println("第一个git工程项目");
+        //修改第二次了
+        System.out.println("修改第二次了");
+    }
+    public void print(){
+        System.out.println("增加的数据");
     }
 }
